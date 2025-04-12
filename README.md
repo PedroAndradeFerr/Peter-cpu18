@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Peter-cpu18 😁
+## Bem-vindo(a) ao perfil do PedroAndradeFerr 😁
 
  <div>
-   <a href="https://github.com/Peter-cpu18">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peter-cpu18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-cpu18&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/PedroAndradeFerr">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAndradeFerr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAndradeFerr&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -17,7 +17,7 @@
 
 
 <!--
-**Peter-cpu18/Peter-cpu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PedroAndradeFerr/PedroAndradeFerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
